@@ -5,7 +5,7 @@ This website content is about my portfolio.
 
 ### About Me
 
-![my picture](<[![Screenshot-20230620-211755-Cap-Cut.jpg](https://i.postimg.cc/j5B6vS2t/Screenshot-20230620-211755-Cap-Cut.jpg)](https://postimg.cc/62LGpwCm)>)
+[![Screenshot-20230620-211755-Cap-Cut.jpg](https://i.postimg.cc/j5B6vS2t/Screenshot-20230620-211755-Cap-Cut.jpg)](https://postimg.cc/62LGpwCm)
 
 let me introduce my name is **Sri Mulyana** i'm from Riau, but now i live in Lubuk Pakam.
 
